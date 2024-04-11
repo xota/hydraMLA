@@ -17,3 +17,13 @@ Boek 'Getting started': https://hydra.ojack.xyz/docs/docs/learning/getting-start
 
 Inleverlink week 1: https://bit.ly/3VSXP4L
 
+Deze week inleveren: 
+
+Lever werk in met:
+- Minstens 1 osc
+- Minstens 2:
+    Rotate
+    Kaleid 
+    Repeat
+
+
