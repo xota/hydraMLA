@@ -26,4 +26,19 @@ Lever werk in met:
     Kaleid 
     Repeat
 
+Week 2 (17 & 18 april):
+
+Opdrachten week 2: https://bit.ly/opdr_wk2_hydra
+
+Boek 'Sources': https://hydra.ojack.xyz/docs/docs/learning/video-synth-basics/src/
+
+Inleverlink week 2: https://bit.ly/4aYqObW
+
+Deze week inleveren:
+
+Lever werk in met:
+- Minstens 1 source uit deze lijst: noise, voronoi, gradient
+- Minstens 2 effecten uit deze lijst: blend, color, repeat
+- Beschrijf wat de 2 effecten doen op de source 
+
 
