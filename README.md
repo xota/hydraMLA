@@ -55,6 +55,8 @@ Lever werk in met:
 ### Deze week inleveren:
 
 Lever werk in met:
-- Minstens 1 shape
-- Minstens 3 effecten uit deze lijst: rotate, kaleid, repeat, color, colorama
-- Beschrijf 
+- Minstens 1 shape (meerdere met .add mag ook)
+- Minstens 1 keer scroll
+- Minstens 1 keer scale
+- Minstens 2 effecten uit deze lijst: rotate, kaleid, repeat, color, colorama, blend
+- Beschrijf wat de invloed is van scroll, scale en je 2 gekozen effecten op je shape(s)
