@@ -1,4 +1,3 @@
-```html
 
 # Hydra
 
@@ -47,4 +46,3 @@ Lever werk in met:
 - Minstens 2 effecten uit deze lijst: blend, color, repeat
 - Beschrijf wat de 2 effecten doen op de source 
 
-```
