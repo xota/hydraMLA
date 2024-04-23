@@ -46,3 +46,15 @@ Lever werk in met:
 - Minstens 2 effecten uit deze lijst: blend, color, repeat
 - Beschrijf wat de 2 effecten doen op de source 
 
+## Week 3 (24 & 25 april): 
+
+Antwoorden Opdrachten week 2: 
+
+Inleverlink week 3: 
+
+Deze week inleveren:
+
+Lever werk in met:
+- Minstens 1 shape
+- Minstens 3 effecten uit deze lijst: rotate, kaleid, repeat, color, colorama
+- Beschrijf 
