@@ -14,11 +14,11 @@ Einddoel, in les 5, is klassikale presentatie van bewegend beeld bij een track v
 
 ## Week 1 (11 april):
 
-Boek 'Getting started': https://hydra.ojack.xyz/docs/docs/learning/getting-started/
+### Boek 'Getting started': https://hydra.ojack.xyz/docs/docs/learning/getting-started/
 
-Inleverlink week 1: https://bit.ly/3VSXP4L
+### Inleverlink week 1: https://bit.ly/3VSXP4L
 
-Deze week inleveren: 
+### Deze week inleveren: 
 
 Lever werk in met:
 - Minstens 1 osc
@@ -31,15 +31,15 @@ Lever werk in met:
 
 ## Week 2 (17 & 18 april):
 
-Opdrachten week 2: https://bit.ly/opdr_wk2_hydra
+### Opdrachten week 2: https://bit.ly/opdr_wk2_hydra
 
-Boek 'Sources': https://hydra.ojack.xyz/docs/docs/learning/video-synth-basics/src/
+### Boek 'Sources': https://hydra.ojack.xyz/docs/docs/learning/video-synth-basics/src/
 
-Inleverlink week 2: https://bit.ly/4aYqObW
+### Inleverlink week 2: https://bit.ly/4aYqObW
 
 
 
-Deze week inleveren:
+### Deze week inleveren:
 
 Lever werk in met:
 - Minstens 1 source uit deze lijst: noise, voronoi, gradient
@@ -48,11 +48,11 @@ Lever werk in met:
 
 ## Week 3 (24 & 25 april): 
 
-Antwoorden Opdrachten week 2: 
+### Antwoorden Opdrachten week 2: https://bit.ly/hydra_antw_wk2
 
-Inleverlink week 3: 
+### Inleverlink week 3: https://forms.gle/9nDArQfrdj8ETYG19
 
-Deze week inleveren:
+### Deze week inleveren:
 
 Lever werk in met:
 - Minstens 1 shape
