@@ -50,6 +50,8 @@ Lever werk in met:
 
 ### Antwoorden Opdrachten week 2: https://bit.ly/hydra_antw_wk2
 
+### Opdrachten week 3: https://forms.gle/nPF11K2p5iWsdFyb9
+
 ### Inleverlink week 3: https://forms.gle/9nDArQfrdj8ETYG19
 
 ### Deze week inleveren:
