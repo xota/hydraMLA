@@ -1,4 +1,6 @@
-#Hydra
+```html
+
+<h1>Hydra</h1>
 
 ##Studiewijzer 4V 2023-2024 blok 4 5 lessen
 
@@ -45,4 +47,4 @@ Lever werk in met:
 - Minstens 2 effecten uit deze lijst: blend, color, repeat
 - Beschrijf wat de 2 effecten doen op de source 
 
-
+```
