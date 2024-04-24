@@ -54,6 +54,8 @@ Lever werk in met:
 
 ### Inleverlink week 3: https://forms.gle/9nDArQfrdj8ETYG19
 
+### Boek hoofdstuk over Blend & Modulate: https://hydra.ojack.xyz/docs/docs/learning/video-synth-basics/combinecoord/
+
 ### Deze week inleveren:
 
 Lever werk in met:
