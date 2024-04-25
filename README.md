@@ -11,6 +11,7 @@ Einddoel, in les 5, is klassikale presentatie van bewegend beeld bij een track v
 
 - Lijst met Hydra functies: https://hydra.ojack.xyz/api/
 - Hydra web editor: https://hydra.ojack.xyz/
+- Toevoegen afbeeldingen als source: https://hydra.ojack.xyz/functions/#functions/initImage/0
 
 ## Week 1 (11 april):
 
