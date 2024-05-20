@@ -65,3 +65,7 @@ Lever werk in met:
 - Minstens 1 keer scale
 - Minstens 2 effecten uit deze lijst: rotate, kaleid, repeat, color, colorama, blend
 - Beschrijf wat de invloed is van scroll, scale en je 2 gekozen effecten op je shape(s)
+
+## Week 4 (22 & 23 mei):
+
+### Link om groep op te geven: https://bit.ly/Groepsindeling
