@@ -74,15 +74,15 @@ Lever werk in met:
 
 ## Week 4 (23 mei):
 
-### Opdrachten week 4 23 mei: 
-
 ### Boek hoofdstuk over Audio: https://hydra.ojack.xyz/docs/docs/learning/sequencing-and-interactivity/audio/
 
 ### Schrijf hier je vraag aan Saskia Freek in: https://bit.ly/VraagSaskiaFreeke
 
+### Opdrachten week 4 23 mei: https://forms.gle/roogRP3XDwRg7mEt9
+
 ### Inleverlink week 3: https://forms.gle/Nowm1Xfa1Nmu9cTg6
 
-### Deze week inleveren:
+### Deze week inleveren: 
 
 Lever werk in dat je aan Saskia zou willen/kunnen laten zien.
 - Minstens 1x gebruik van een audio bin met '() => a.fft[x]'
