@@ -70,4 +70,12 @@ Lever werk in met:
 
 ### Link om groep op te geven: https://bit.ly/Groepsindeling
 
-### Opdrachten week 4 22 april: https://forms.gle/SiSp2qv687QXRh529
+### Opdrachten week 4 22 mei: https://forms.gle/SiSp2qv687QXRh529
+
+### Opdrachten week 4 23 mei: 
+
+### Boek hoofdstuk over Audio: https://hydra.ojack.xyz/docs/docs/learning/sequencing-and-interactivity/audio/
+
+### Schrijf hier je vraag aan Saskia Freek in: https://bit.ly/VraagSaskiaFreeke
+
+
