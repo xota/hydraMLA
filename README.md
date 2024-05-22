@@ -66,11 +66,13 @@ Lever werk in met:
 - Minstens 2 effecten uit deze lijst: rotate, kaleid, repeat, color, colorama, blend
 - Beschrijf wat de invloed is van scroll, scale en je 2 gekozen effecten op je shape(s)
 
-## Week 4 (22 & 23 mei):
+## Week 4 (22 mei):
 
 ### Link om groep op te geven: https://bit.ly/Groepsindeling
 
 ### Opdrachten week 4 22 mei: https://forms.gle/SiSp2qv687QXRh529
+
+## Week 4 (23 mei):
 
 ### Opdrachten week 4 23 mei: 
 
@@ -78,10 +80,13 @@ Lever werk in met:
 
 ### Schrijf hier je vraag aan Saskia Freek in: https://bit.ly/VraagSaskiaFreeke
 
+### Inleverlink week 3: https://forms.gle/Nowm1Xfa1Nmu9cTg6
+
 ### Deze week inleveren:
 
-Lever werk in dat je aan Saskia zou kunnen laten zien.
-Bijvoorbeeld met:
-- 
+Lever werk in dat je aan Saskia zou willen/kunnen laten zien.
+- Minstens 1x gebruik van een audio bin met '() => a.fft[x]'
+- Minstens 2 sources (gebruik add/mask/layer/modulate etc.)
+- Minstens 4 effecten/functies, alles mag. Ga los :p
 
 
