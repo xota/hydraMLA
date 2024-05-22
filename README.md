@@ -78,4 +78,10 @@ Lever werk in met:
 
 ### Schrijf hier je vraag aan Saskia Freek in: https://bit.ly/VraagSaskiaFreeke
 
+### Deze week inleveren:
+
+Lever werk in dat je aan Saskia zou kunnen laten zien.
+Bijvoorbeeld met:
+- 
+
 
