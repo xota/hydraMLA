@@ -8,7 +8,7 @@ De eindopdracht bestaat uit 2 delen: de performance en een kort verslag. Een dee
 
 ### Verslag
 
-Min. 300 woorden, inleveren als pdf of word-bestand. 
+**Min. 300 woorden, inleveren als pdf of word-bestand.**
 
 In het verslag beantwoord je als groep deze vragen over je werk:
 
