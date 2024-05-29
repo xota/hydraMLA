@@ -89,4 +89,14 @@ Lever werk in dat je aan Saskia zou willen/kunnen laten zien.
 - Minstens 2 sources (gebruik add/mask/layer/modulate etc.)
 - Minstens 4 effecten/functies, alles mag. Ga los :p
 
+## Week 5 (30 mei):
+
+### Zet jullie gekozen nummer in dit bestand: https://bit.ly/Groepsindeling
+
+Deze les ga je beginnen aan het maken van de eindopdracht.
+
+Doelen: 
+- Nummer kiezen
+- 
+
 
