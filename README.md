@@ -103,6 +103,7 @@ Lever werk in dat je aan Saskia zou willen/kunnen laten zien.
 
 ## Week 5 (30 mei):
 
+### Lees de info over de eindopdracht: https://bit.ly/eindopdrachtInfo
 ### Zet jullie gekozen nummer in dit bestand: https://bit.ly/Groepsindeling
 
 Deze les ga je beginnen aan het maken van de eindopdracht.
@@ -111,5 +112,6 @@ Doelen:
 - Info over eindopdracht lezen
 - Nummer kiezen
 - Taken verdelen: ieder persoon maakt 1 visual/beeld
+
 
 
