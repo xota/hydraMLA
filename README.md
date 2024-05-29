@@ -111,7 +111,10 @@ Deze les ga je beginnen aan het maken van de eindopdracht.
 Doelen: 
 - Info over eindopdracht lezen
 - Nummer kiezen
-- Taken verdelen: ieder persoon maakt 1 visual/beeld
+- Maak een **online** bestand voor je groep voor het verzamelen van Hydra linkjes
+- Maak de **helft** van je performance:
+  - Ieder groepslid past min. 15 seconden de code aan
+  - Je maakt met zijn allen **twee** visuals 
 
 
 
