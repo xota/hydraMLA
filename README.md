@@ -89,6 +89,16 @@ Lever werk in dat je aan Saskia zou willen/kunnen laten zien.
 - Minstens 2 sources (gebruik add/mask/layer/modulate etc.)
 - Minstens 4 effecten/functies, alles mag. Ga los :p
 
+| Datum | Doel van les                                                                              |   |
+|-------|-------------------------------------------------------------------------------------------|---|
+| 30-05 | Nummer kiezen, starten met eindopdracht                                                   |   |
+| 05-06 | Werken aan eindopdracht: helft van de performance.  **Helft van performance deze les af** |   |
+| 06-06 | Feedback geven op elkaars werk/helft performance                                          |   |
+| 12-06 | Afmaken eindopdracht en oefenen met performance                                           |   |
+| 13-06 | Afmaken eindopdracht en oefenen met performance                                           |   |
+| 19-06 | Presentaties performance                                                                  |   |
+| 20-06 | Presentaties performance (extra optie)                                                    |   |
+
 ## Week 5 (30 mei):
 
 ### Zet jullie gekozen nummer in dit bestand: https://bit.ly/Groepsindeling
@@ -96,7 +106,8 @@ Lever werk in dat je aan Saskia zou willen/kunnen laten zien.
 Deze les ga je beginnen aan het maken van de eindopdracht.
 
 Doelen: 
+- Info over eindopdracht lezen
 - Nummer kiezen
-- 
+- Taken verdelen: ieder persoon maakt 1 visual/beeld
 
 
