@@ -57,7 +57,6 @@ Het verslag wordt beoordeeld door ons op basis van:
   <li>Compleetheid: zijn alle vragen beantwoord, voldoende woorden gebruikt</li>
   <li>Vraag 2 en 4: zijn de keuzes voldoende onderbouwd</li>
   <li>Vraag 5: zijn de gebruikte bronnen genoemd met link</li>
-  <li>Fourth item</li>
 </ul> 
 
 De performance wordt beoordeeld door ons op basis van jullie samenwerking en de visuals + muziek:
